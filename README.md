@@ -1,1 +1,1 @@
-# backup_script-virtnbdbackup
+# Backup script for virtnbdbackup
