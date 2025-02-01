@@ -36,8 +36,8 @@ RETENTION_FULL_BACKUPS=4            # Number of full backups to retain
 EXCLUDE_VMS=""				# VM names separated by '|'
 EXCLUDE_DISKS_BY_VM=""			# Syntax: vm_name:disk_name|vm_name:diskX
 
-# Day of the week for full backup (1 = Sunday, 7 = Saturday)
-FULL_BACKUP_DAY=7
+# Day of the week for full backup (7 = Sunday, 6 = Saturday)
+FULL_BACKUP_DAY=6
 
 # Maximum days between full backups
 MAX_DAYS_BETWEEN_FULL_BACKUPS=7
